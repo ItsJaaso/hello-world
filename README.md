@@ -1,2 +1,6 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+
+My name is Joel Elizee.
+
+I am a student learning how to use GitHub.
+This repository is part of my GitHub Hello World assignment.
